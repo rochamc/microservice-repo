@@ -3,7 +3,7 @@ spring:
   datasource:
     username: sysdba
     password: masterkey
-    url: jdbc:mysql://192.168.15.164:3306/fornecedor
+    url: jdbc:mysql://192.168.15.164:3306/loja
   jpa:
     hibernate:
       ddl-auto: update
